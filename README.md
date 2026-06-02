@@ -1,3 +1,8 @@
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?style=flat-square&logo=snowflake)
+![dbt](https://img.shields.io/badge/dbt-Transformation-FF694B?style=flat-square&logo=dbt)
+![AWS](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square&logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+
 # Airbnb Data Pipeline — Snowflake + dbt + AWS
 
 ## What This Is
